@@ -766,7 +766,7 @@ const Nav = ({ onBookClick, setView, currentView }: { onBookClick: () => void, s
             {currentView === 'site' ? (
               <>
                 <div className="w-2 h-2 rounded-full bg-sky-400 animate-pulse" />
-                <span className="hidden md:inline">ENTER DASHBOARD</span>
+                <span className="hidden md:inline">Live Call Track</span>
                 <span className="md:hidden">NEXUS</span>
               </>
             ) : (
