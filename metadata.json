@@ -1,0 +1,6 @@
+{
+  "name": "Stratos Outbound",
+  "description": "Elite B2B cold calling and appointment setting agency for high-growth companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
